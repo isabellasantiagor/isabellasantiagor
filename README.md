@@ -1,7 +1,7 @@
 ## Olá! Tudo bem?
 
 Me chamo Isabella Santiago Rolim.
-Sou uma estudante cursando o primeiro semestre de Ciência da Computação. No momento, estou aprendendo as linguagens Python, SQL e C!
+Sou uma estudante cursando o terceiro semestre de Ciência da Computação. No momento, estou aprendendo as linguagens Python, SQL, C+ e Java!
 Uso os softwares Pycharm, Visual Studio Code, MySQL e CodeBlocks.
 ##
 <div style="display: inline_block"><br>
